@@ -1,0 +1,36 @@
+#login
+{
+    background-color:rgb(255, 255, 255, 0.6);
+    left:45%;
+    text-align:center;
+    height:1250px;
+}
+#logo-header
+{
+    font-family:"Alumni Sans Collegiate One", san-serif;
+    letter-spacing:10px;
+    margin-top:80px;
+}
+body
+{
+    background-image:url("login_img.png");
+    background-position:top;
+    background-size:100%;
+}
+#logo
+{
+    height:50px;
+}
+.header
+{
+	color:white;
+    font-family:'Yeon Sung';
+    font-size:15px;
+    letter-spacing:10px;
+    margin-top:80px;
+}
+.header img
+{
+	width:80px;
+    margin-left:-15px;
+}
